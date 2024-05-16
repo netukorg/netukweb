@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Linkedin",
+    "link": "https://www.linkedin.com/company/netuk/",
+    "image": "images/social/linkedin.svg"
+  },
+  {
+    "name": "Email",
+    "link": "mailto:team@netuk.org",
+    "image": "images/social/email.svg"
+  }
+]

@@ -21,7 +21,7 @@ Anyone who is an active participant in Internet operations and the peering commu
 
 # How to Register
 
-Registeration is open and tickets are available through Pretix.
+Registration is open and tickets are available through Pretix.
 There are two types of tickets available;
 
 - General tickets: for all participants except students. The tickets are discounted and available at £50 per individual.

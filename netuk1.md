@@ -13,11 +13,13 @@ bodyClass: page-about
 
 The first NetUK conference will take place at [IET London: Savoy Place](https://savoyplace.theiet.org/). This is an in-person conference, however the event will be streamed live.
 
-Our conferences is a place where like-minded professionals can meet, share best practices and new innovation, learn from challenges and success stories, knowledge share with new entrants into the networking community, and forge new connections.
+Our conferences are a place where like-minded professionals can meet, share best practices and new innovations, learn from challenges and success stories, share knowledge with new entrants into the networking community, and forge new connections.
 
 ## Who Should Attend?
 
 Anyone who is an active participant in Internet operations and the peering community at large. We particularly encourage new entrants, junior engineers/ team members and students to join.
+
+See the list of [current participants >>]({% link participants.md %})
 
 ## How to Register
 
@@ -51,7 +53,7 @@ If you have a topic you would like to share, submit a proposal through the NetUK
 
 # Draft Meeting Agenda
 
-The PC are working on the [agenda for the event >>](https://indico.netuk.org/event/1/timetable/#20240708.detailed){: .btn}. In the meantime, here is a draft schedule:
+The PC are working on the [agenda for the event >>](https://indico.netuk.org/event/1/timetable/#20240708.detailed){: .btn}. In the meantime, here is a draft schedule :
 
 <html>
 <head>
@@ -80,28 +82,38 @@ tr:hover {background-color: #D6EEEE;}
   </tr>
   <tr>
     <td>Registration & Lunch</td>
-    <td>12:00</td>
-    <td>Registration area TBC; Lunch area TBC</td>
+    <td>12:00 - 13:30</td>
+    <td>Registration & Lunch area TBC; IET London: Savoy Place</td>
   </tr>
   <tr>
     <td>Opening & Session 1</td>
-    <td>13:30</td>
-    <td>TBC</td>
+    <td>13:30 - 14:30</td>
+    <td>Riverside Room</td>
   </tr>
   <tr>
     <td>Coffee Break</td>
-    <td>15:30 - 15:45</td>
-    <td>TBC</td>
+    <td>14:30 - 15:00</td>
+    <td>Maxwell Library</td>
   </tr>
   <tr>
     <td>Session 2</td>
-    <td>15:45 - 17:00</td>
-    <td>TBC</td>
+    <td>15:00 - 16:00</td>
+    <td>Riverside Room</td>
+  </tr>
+   <tr>
+    <td>Coffee Break</td>
+    <td>16:00 - 16:15</td>
+    <td>Maxwell Library</td>
+  </tr>
+  <tr>
+    <td>Session 3</td>
+    <td>15:15 - 17:00</td>
+    <td>Riverside Room</td>
   </tr>
   <tr>
     <td>Evening Social</td>
     <td>17:00 - 21:00</td>
-    <td>Join us for an evening of networking, drinks and food. TBC</td>
+    <td>Join us for an evening of networking, drinks and food. Maxwell Library (IET London: Savoy Place)</td>
   </tr>
 </table>
 
@@ -111,7 +123,6 @@ tr:hover {background-color: #D6EEEE;}
 <html>
 <head>
 <style>
-    
 table {
   border-collapse: collapse;
   width: 100%;
@@ -136,35 +147,41 @@ tr:hover {background-color: #D6EEEE;}
   </tr>
   <tr>
     <td>Registration</td>
-    <td>09:30</td>
-    <td>TBC</td>
+    <td>09:00 - 10:00</td>
+    <td>IET London: Savoy Place</td>
   </tr>
   <tr>
-    <td>Session 1</td>
-    <td>10:00</td>
-    <td>TBC</td>
+    <td>Session 4</td>
+    <td>10:00 - 11:15</td>
+    <td>Riverside Room</td>
   </tr>
   <tr>
     <td>Coffee Break</td>
-    <td>11:15 - 11:45</td>
-    <td>TBC</td>
+    <td>11:15 - 11:30</td>
+    <td>Maxwell Library</td>
   </tr>
   <tr>
-    <td>Session 2</td>
-    <td>11:45 - 13:00</td>
-    <td>TBC</td>
+    <td>Session 5</td>
+    <td>11:30 - 12:30</td>
+    <td>Riverside Room</td>
   </tr>
   <tr>
     <td>Lunch</td>
-    <td>13:00 - 14:00</td>
-    <td>TBC</td>
+    <td>12:30 - 14:00</td>
+    <td>Maxwell Library</td>
   </tr>
   <tr>
-    <td>Session 3 & Closing</td>
-    <td>14:00 - 16:00</td>
-    <td>TBC</td>
+    <td>Session 6</td>
+    <td>14:00 - 15:00</td>
+    <td>Riverside Room</td>
  </tr>
-</table>
-
-</body>
-</html>
+ <tr>
+    <td>Coffee Break</td>
+    <td>15:00 - 15:30</td>
+    <td>Maxwell Library</td>
+  </tr>
+  <tr>
+    <td>Session 7 & Closing</td>
+    <td>15:30 - 17:00</td>
+    <td>Riverside Room</td>
+  </tr>

@@ -113,9 +113,10 @@ tr:hover {background-color: #D6EEEE;}
   <tr>
     <td>Evening Social</td>
     <td>17:00 - 21:00</td>
-    <td>Join us for an evening of networking, drinks and food. Maxwell Library (IET London: Savoy Place)</td>
-  </tr>
-</table>
+    <td>
+    Join us for an evening of networking, drinks and food on the
+    <a href="https://savoyplace.theiet.org/our-rooms/johnson-roof-terrace/">Johnson Terrace at the IET London: Savoy Place </a>
+    </td></tr></table>
 
 </body>
 </html>

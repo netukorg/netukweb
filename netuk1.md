@@ -19,7 +19,7 @@ Our conferences are a place where like-minded professionals can meet, share best
 
 Anyone who is an active participant in Internet operations and the peering community at large. We particularly encourage new entrants, junior engineers/ team members and students to join.
 
-See the list of [current participants >>]({% link participants.md %})
+See the list of [current participants >>](https://indico.netuk.org/event/1/registrations/participants)
 
 ## How to Register
 

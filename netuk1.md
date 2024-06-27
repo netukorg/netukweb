@@ -56,6 +56,10 @@ If you have a topic you would like to share, submit a proposal through the NetUK
 
 Submission closes on 30th June, at 23:59 BST.
 
+# Meeting Agenda
+
+For an up-to-date schedule of the event, see [NetUK1 >>](https://indico.netuk.org/event/1/timetable/#20240708.detailed){: .btn}
+
 # NetUK1 Sponsors
 
 > ## We thank all our partners and sponsors for their support
@@ -77,6 +81,3 @@ Submission closes on 30th June, at 23:59 BST.
 [AtlasEdge](https://atlasedge.com/), [SmartOptics](https://smartoptics.com/), [RIPE](https://www.ripe.net),[IGX Global](https://igxglobal.com),[Bogons](https://www.bogons.net/), [inter.link](https://inter.link/), [Flexoptix](https://www.flexoptix.net/en) and [Star Europe](http://stareurope.eu/)
 
 <img src="/images/NetUK 1 Sponsors T3.png" alt="Event Sponsors">
-# Meeting Agenda
-
-For an up-to-date schedule of the event, take a look at the [NetUK Indico page >>](https://indico.netuk.org/event/1/timetable/#20240708.detailed){: .btn}.

@@ -11,9 +11,12 @@ bodyClass: page-about
 
 # About NetUK 1
 
-The first NetUK conference will take place at [IET London: Savoy Place](https://savoyplace.theiet.org/). This is an in-person conference, however the event will be streamed live.
+The first NetUK conference will take place at [IET London: Savoy Place >>](https://savoyplace.theiet.org/). This is an in-person conference, however the event will be streamed live.
 
 Our conferences are a place where like-minded professionals can meet, share best practices and new innovations, learn from challenges and success stories, share knowledge with new entrants into the networking community, and forge new connections.
+
+Our conferences are a place where like-minded professionals can meet, share best practices and new innovations, learn from challenges and success stories, share knowledge with new entrants into the networking community, and forge new connections.
+For up-to-date information on the event, see [NetUK1 >>](https://indico.netuk.org/event/1/){: .btn}.
 
 ## Who Should Attend?
 
@@ -51,138 +54,29 @@ If you have a topic you would like to share, submit a proposal through the NetUK
 
 [Submit a presentation >>](https://indico.netuk.org/event/1){: .btn}
 
-# Draft Meeting Agenda
+Submission closes on 30th June, at 23:59 BST.
 
-The PC are working on the [agenda for the event >>](https://indico.netuk.org/event/1/timetable/#20240708.detailed){: .btn}. In the meantime, here is a draft schedule :
+# NetUK1 Sponsors
 
-<html>
-<head>
-<style>
-table {
-  border-collapse: collapse;
-  width: 100%;
-}
+> ## We thank all our partners and sponsors for their support
 
-th, td {
-  padding: 8px;
-  text-align: left;
-  border-bottom: 1px solid #DDD;
-}
+## Host Sponsors
 
-tr:hover {background-color: #D6EEEE;}
-</style>
-</head>
-<body>
+[LINX](https://savoyplace.theiet.org/), [LONAP](https://savoyplace.theiet.org/) and [Nominet](https://savoyplace.theiet.org/)
 
-<table>
- <tr>
-    <th>Monday 8th July</th>
-    <th>Time</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>Registration & Lunch</td>
-    <td>12:00 - 13:30</td>
-    <td>Registration & Lunch area TBC; IET London: Savoy Place</td>
-  </tr>
-  <tr>
-    <td>Opening & Session 1</td>
-    <td>13:30 - 14:30</td>
-    <td>Riverside Room</td>
-  </tr>
-  <tr>
-    <td>Coffee Break</td>
-    <td>14:30 - 15:00</td>
-    <td>Maxwell Library</td>
-  </tr>
-  <tr>
-    <td>Session 2</td>
-    <td>15:00 - 16:00</td>
-    <td>Riverside Room</td>
-  </tr>
-   <tr>
-    <td>Coffee Break</td>
-    <td>16:00 - 16:15</td>
-    <td>Maxwell Library</td>
-  </tr>
-  <tr>
-    <td>Session 3</td>
-    <td>15:15 - 17:00</td>
-    <td>Riverside Room</td>
-  </tr>
-  <tr>
-    <td>Evening Social</td>
-    <td>17:00 - 21:00</td>
-    <td>
-    Join us for an evening of networking, drinks and food on the
-    <a href="https://savoyplace.theiet.org/our-rooms/johnson-roof-terrace/">Johnson Terrace at the IET London: Savoy Place </a>
-    </td></tr></table>
+<img src="/images/NetUK 1 Sponsors T1.png" alt="Host Sponsors">
 
-</body>
-</html>
+## Event Sponsors
 
-<html>
-<head>
-<style>
-table {
-  border-collapse: collapse;
-  width: 100%;
-}
+[ZPE Systems](https://zpesystems.com/), [Hilco IPv4]( https://www.hilcovs.co.uk/ipv4/), [PTX Technologies](https://www.ptxtech.io/), [SG.GS](https://www.sg.gs/), and [Digital Realty](https://www.digitalrealty.co.uk/)
 
-th, td {
-  padding: 8px;
-  text-align: left;
-  border-bottom: 1px solid #DDD;
-}
+ <img src="/images/NetUK 1 Sponsors T2.png" alt="Event Sponsors">
 
-tr:hover {background-color: #D6EEEE;}
-</style>
-</head>
-<body>
+## Coffee & Lunch Sponsor, Lanyard Sponsor & Associate Sponsors
 
-<table>
- <tr>
-    <th>Tuesday 9th July</th>
-    <th>Time</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>Registration</td>
-    <td>09:00 - 10:00</td>
-    <td>IET London: Savoy Place</td>
-  </tr>
-  <tr>
-    <td>Session 4</td>
-    <td>10:00 - 11:15</td>
-    <td>Riverside Room</td>
-  </tr>
-  <tr>
-    <td>Coffee Break</td>
-    <td>11:15 - 11:30</td>
-    <td>Maxwell Library</td>
-  </tr>
-  <tr>
-    <td>Session 5</td>
-    <td>11:30 - 12:30</td>
-    <td>Riverside Room</td>
-  </tr>
-  <tr>
-    <td>Lunch</td>
-    <td>12:30 - 14:00</td>
-    <td>Maxwell Library</td>
-  </tr>
-  <tr>
-    <td>Session 6</td>
-    <td>14:00 - 15:00</td>
-    <td>Riverside Room</td>
- </tr>
- <tr>
-    <td>Coffee Break</td>
-    <td>15:00 - 15:30</td>
-    <td>Maxwell Library</td>
-  </tr>
-  <tr>
-    <td>Session 7 & Closing</td>
-    <td>15:30 - 17:00</td>
-    <td>Riverside Room</td>
-  </tr>
+[AtlasEdge](https://atlasedge.com/), [SmartOptics](https://smartoptics.com/), [RIPE](https://www.ripe.net),[IGX Global](https://igxglobal.com),[Bogons](https://www.bogons.net/), [inter.link](https://inter.link/), [Flexoptix](https://www.flexoptix.net/en) and [Star Europe](http://stareurope.eu/)
+
+<img src="/images/NetUK 1 Sponsors T3.png" alt="Event Sponsors">
+# Meeting Agenda
+
+For an up-to-date schedule of the event, take a look at the [NetUK Indico page >>](https://indico.netuk.org/event/1/timetable/#20240708.detailed){: .btn}.

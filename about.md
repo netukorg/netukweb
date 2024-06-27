@@ -23,3 +23,30 @@ This organisation fosters a vibrant community of individuals passionate about in
 We operate with a lean and volunteer-powered structure, maximising the impact of every contribution by channelling resources directly towards our goals. This model mirrors the successful approach of UKNOF, relying on the dedication and expertise of volunteers to drive our mission.
 
 > Reach out to us - we welcome all input and feeback as we move the organisation forward.
+
+# Management Committee
+
+The Management Committee comprises of;
+
+- Dave Pumford (PTX Technologies)
+- Jennifer Holmes (LINX)
+- Richard Irving (LONAP)
+
+# Programme Committee
+
+The Programme Committee comprises of;
+
+- Matt Jepp (PC Chair)
+- Dave Wilson
+- Fearghas Mckay
+- Brandon Butterworth
+- James Bensley
+- Josh Levett
+- Mo Shivji
+- Paul Dunbar
+- Paulius Judickas
+- Rebecca Class-Peter
+- Sergey Myasoedov
+- Steve Karmeinsky
+- Nick Rice
+

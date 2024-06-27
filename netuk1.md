@@ -11,15 +11,18 @@ bodyClass: page-about
 
 # About NetUK 1
 
-The first NetUK conference will take place at [IET London: Savoy Place](https://savoyplace.theiet.org/). This is an in-person conference, however the event will be streamed live.
+The first NetUK conference will take place at [IET London: Savoy Place >>](https://savoyplace.theiet.org/). This is an in-person conference, however the event will be streamed live.
 
 Our conferences are a place where like-minded professionals can meet, share best practices and new innovations, learn from challenges and success stories, share knowledge with new entrants into the networking community, and forge new connections.
+
+Our conferences are a place where like-minded professionals can meet, share best practices and new innovations, learn from challenges and success stories, share knowledge with new entrants into the networking community, and forge new connections.
+For up-to-date information on the event, see [NetUK1 >>](https://indico.netuk.org/event/1/){: .btn}.
 
 ## Who Should Attend?
 
 Anyone who is an active participant in Internet operations and the peering community at large. We particularly encourage new entrants, junior engineers/ team members and students to join.
 
-See the list of [current participants >>]({% link participants.md %})
+See the list of [current participants >>](https://indico.netuk.org/event/1/registrations/participants)
 
 ## How to Register
 
@@ -74,3 +77,6 @@ Submission closes on 30th June, at 23:59 BST.
 [AtlasEdge](https://atlasedge.com/), [SmartOptics](https://smartoptics.com/), [RIPE](https://www.ripe.net),[IGX Global](https://igxglobal.com),[Bogons](https://www.bogons.net/), [inter.link](https://inter.link/), [Flexoptix](https://www.flexoptix.net/en) and [Star Europe](http://stareurope.eu/)
 
 <img src="/images/NetUK 1 Sponsors T3.png" alt="Event Sponsors">
+# Meeting Agenda
+
+For an up-to-date schedule of the event, take a look at the [NetUK Indico page >>](https://indico.netuk.org/event/1/timetable/#20240708.detailed){: .btn}.

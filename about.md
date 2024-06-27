@@ -30,23 +30,24 @@ The Management Committee comprises of;
 
 - Dave Pumford (PTX Technologies)
 - Jennifer Holmes (LINX)
+- Matt Jepp (PC Rep)
+- Nick Wenban-Smith (Nominet)
 - Richard Irving (LONAP)
 
 # Programme Committee
 
 The Programme Committee comprises of;
 
-- Matt Jepp (PC Chair)
+- Brandon Butterworth
 - Dave Wilson
 - Fearghas Mckay
-- Brandon Butterworth
 - James Bensley
 - Josh Levett
+- Matt Jepp (PC Chair)
 - Mo Shivji
+- Nick Rice
 - Paul Dunbar
 - Paulius Judickas
 - Rebecca Class-Peter
 - Sergey Myasoedov
 - Steve Karmeinsky
-- Nick Rice
-

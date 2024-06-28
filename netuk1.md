@@ -14,8 +14,6 @@ bodyClass: page-about
 The first NetUK conference will take place at [IET London: Savoy Place >>](https://savoyplace.theiet.org/). This is an in-person conference, however the event will be streamed live.
 
 Our conferences are a place where like-minded professionals can meet, share best practices and new innovations, learn from challenges and success stories, share knowledge with new entrants into the networking community, and forge new connections.
-
-Our conferences are a place where like-minded professionals can meet, share best practices and new innovations, learn from challenges and success stories, share knowledge with new entrants into the networking community, and forge new connections.
 For up-to-date information on the event, see [NetUK1 >>](https://indico.netuk.org/event/1/){: .btn}.
 
 ## Who Should Attend?
@@ -62,7 +60,7 @@ For an up-to-date schedule of the event, see [NetUK1 >>](https://indico.netuk.or
 
 # NetUK1 Sponsors
 
-> ## We thank all our partners and sponsors for their support
+> ## We thank all our partners and sponsors for their support!
 
 ## Host Sponsors
 

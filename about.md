@@ -45,7 +45,7 @@ The Programme Committee comprises of;
 - Josh Levett
 - Matt Jepp (PC Chair)
 - Mo Shivji
-- Nick Rice
+- Nick Ryce
 - Paul Dunbar
 - Paulius Judickas
 - Rebecca Class-Peter

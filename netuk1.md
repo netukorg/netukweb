@@ -70,7 +70,7 @@ For an up-to-date schedule of the event, see [NetUK1 >>](https://indico.netuk.or
 
 ## Event Sponsors
 
-[ZPE Systems](https://zpesystems.com/), [Hilco IPv4]( https://www.hilcovs.co.uk/ipv4/), [PTX Technologies](https://www.ptxtech.io/), [SG.GS](https://www.sg.gs/), and [Digital Realty](https://www.digitalrealty.co.uk/)
+[ZPE Systems](https://zpesystems.com/), [Hilco IPv4](https://ipv4.global/), [PTX Technologies](https://www.ptxtech.io/), [SG.GS](https://www.sg.gs/), and [Digital Realty](https://www.digitalrealty.co.uk/)
 
  <img src="/images/NetUK 1 Sponsors T2.png" alt="Event Sponsors">
 

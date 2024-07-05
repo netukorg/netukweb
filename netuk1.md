@@ -42,7 +42,7 @@ There are two types of tickets available;
     </div>
 </noscript>
 
-# Submit a Presentation
+<!-- # Submit a Presentation
 
 The NetUK PC are looking for in-person content. Proposals on any subject relevant to networking and interconnection are welcome, both technical and non-technical. Perhaps tell us about a new technology you're implementing. If you’ve been working on a project, solved a problem, or are thinking about a challenge, bring it to NetUK!
 
@@ -52,7 +52,7 @@ If you have a topic you would like to share, submit a proposal through the NetUK
 
 [Submit a presentation >>](https://indico.netuk.org/event/1){: .btn}
 
-Submission closes on 30th June, at 23:59 BST.
+Submission closes on 30th June, at 23:59 BST. -->
 
 # Meeting Agenda
 

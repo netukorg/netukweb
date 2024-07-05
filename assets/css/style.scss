@@ -116,3 +116,20 @@ body {
     line-height: 1.3;
   }
 }
+
+/* Styles for embedding responsive google forms etc: */
+
+.responsive-iframe-container {
+  position: relative;
+  padding-bottom: 170%;  /* Adjust based on your form's height */
+  height: 0;
+  overflow: hidden;
+}
+
+.responsive-iframe-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}

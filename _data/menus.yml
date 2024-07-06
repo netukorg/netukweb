@@ -15,4 +15,4 @@ footer:
     weight: 1
   - name: "Contact"
     url: "/contact/"
-    weight: 2
+    weight: 4

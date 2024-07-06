@@ -22,9 +22,9 @@ Anyone who is an active participant in Internet operations and the peering commu
 
 See the list of [current participants >>](https://indico.netuk.org/event/1/registrations/participants)
 
-## How to Register
+## Registration & Online Participation
 
-All tiickets have sold out. To be placed on the waiting list, register [here>>](https://tickets.netuk.org/NetUK1/)
+All tickets have sold out. However, you can can participate remotely by watching the Netuk 1 [livestream >>](https://www.youtube.com/watch?v=-3IwQOc5tfg)
 
 # Meeting Agenda
 

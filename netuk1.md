@@ -5,16 +5,20 @@ description: NetUK 1
 bodyClass: page-about
 ---
 
-<a href="https://tickets.netuk.org/NetUK1/">
+<!-- <a href="https://tickets.netuk.org/NetUK1/">
    <img src="/images/netuk1-event-website-banner.svg" alt="NetUK Meeting">
-</a>
+</a> -->
 
 # About NetUK 1
 
-The first NetUK conference took place at [IET London: Savoy Place >>](https://savoyplace.theiet.org/). This is an in-person conference, however the event will be streamed live.
+The first NetUK conference took place at [IET London: Savoy Place >>](https://savoyplace.theiet.org/). This is an in-person conference, however the event was also streamed live.
 
 Our conferences are a place where like-minded professionals can meet, share best practices and new innovations, learn from challenges and success stories, share knowledge with new entrants into the networking community, and forge new connections.
 For up-to-date information on the event, see [NetUK1 >>](https://indico.netuk.org/event/1/){: .btn}.
+
+# Event photos
+
+[Photos from NetUK1>>]({% link netuk1_gallery.md %}){: .btn}.
 
 ## Who Should Attend?
 

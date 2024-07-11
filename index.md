@@ -10,6 +10,6 @@ show_call_box: false
 
 # The Network of Networks for the Community.
 
-Our inaugural conference will take place on 8th & 9th July. The event will be packed with interesting presentations, knowledge sharing, and plenty of networking opportunites.
+Our inaugural conference took place on 8th & 9th July. 
 
 [More >>]({% link netuk1.md %})

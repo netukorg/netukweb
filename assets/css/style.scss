@@ -138,13 +138,13 @@ body {
 
 .gallery-container {
   position: relative;
-  padding-bottom: 300%;  /* Adjust based on your form's height */
-  height: 0;
+  padding-bottom: 1%;  /* Adjust based on your form's height */
+  height: 100%;
   overflow: hidden;
 }
 
 .gallery-container iframe {
-  position: absolute;
+  position: relative;
   top: 0;
   left: 0;
   width: 100%;

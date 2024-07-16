@@ -5,7 +5,7 @@ description: NetUK 1
 bodyClass: page-about
 ---
 
-# About NetUK 1
+# About NetUK1
 
 The first NetUK conference took place on 8th and 9th of July, at [IET London: Savoy Place >>](https://savoyplace.theiet.org/).
 

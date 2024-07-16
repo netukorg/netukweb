@@ -8,9 +8,7 @@ intro_image_hide_on_mobile: true
 show_call_box: false
 ---
 
-# The Network of Networks for the Community
-
-## Building the UK's latest network infrastructure community.
+# Building the UK's latest network infrastructure community
 
 Our inaugural conference took place on 8th & 9th July.
 

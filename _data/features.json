@@ -1,7 +1,7 @@
 [
   {
-    "title": "Community Building",
-    "description": "Foster a collaborative spirit that thrives on shared passion.",
+    "title": "Professional Exposure",
+    "description": "Provide valuable opportunities for both individuals and sponsors to collaborate and advance with in the industry.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -10,7 +10,7 @@
   },
   {
     "title": "Knowledge Sharing",
-    "description": "Facilitate the exchange of ideas and insights through conferences and events.",
+    "description": "Facilitate the exchange of ideas and insights through conferences and workshops.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -22,6 +22,15 @@
     "description": "Promote participation from all corners of the community, regardless of background or experience.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Community Development",
+    "description": "Foster a collaborative spirit that thrives on a shared passion for technological achievements.",
+    "image": {
+      "url": "images/features/objective_community_development.png",
       "width": 80,
       "height": 80
     }

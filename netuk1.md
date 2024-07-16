@@ -5,34 +5,16 @@ description: NetUK 1
 bodyClass: page-about
 ---
 
-<!-- <a href="https://tickets.netuk.org/NetUK1/">
-   <img src="/images/netuk1-event-website-banner.svg" alt="NetUK Meeting">
-</a> -->
-
 # About NetUK 1
 
-The first NetUK conference took place at [IET London: Savoy Place >>](https://savoyplace.theiet.org/). This is an in-person conference, however the event was also streamed live.
+The first NetUK conference took place on 8th and 9th of July, at [IET London: Savoy Place >>](https://savoyplace.theiet.org/).
 
 Our conferences are a place where like-minded professionals can meet, share best practices and new innovations, learn from challenges and success stories, share knowledge with new entrants into the networking community, and forge new connections.
-For up-to-date information on the event, see [NetUK1 >>](https://indico.netuk.org/event/1/){: .btn}.
 
-# Event photos
+Find out more [NetUK1 >>](https://indico.netuk.org/event/1/){: .btn} and the [NetUK1 participants >>](https://indico.netuk.org/event/1/registrations/participants).
 
-[Photos from NetUK1>>]({% link netuk1_gallery.md %}){: .btn}.
-
-## Who Should Attend?
-
-Anyone who is an active participant in Internet operations and the peering community at large. We particularly encourage new entrants, junior engineers/ team members and students to join.
-
-See the list of [current participants >>](https://indico.netuk.org/event/1/registrations/participants)
-
-## Registration & Online Participation
-
-All tickets have sold out. However, you can can participate remotely by watching the Netuk 1 [livestream >>](https://www.youtube.com/watch?v=-3IwQOc5tfg)
-
-# Meeting Agenda
-
-For an up-to-date schedule of the event, see [NetUK1 >>](https://indico.netuk.org/event/1/timetable/#20240708.detailed){: .btn}
+# Event Photos
+[Photos from NetUK1 >>](https://www.netuk.org/netuk1/gallery/)
 
 # NetUK1 Sponsors
 

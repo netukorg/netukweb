@@ -11,7 +11,7 @@ The first NetUK conference took place on 8th and 9th of July, at [IET London: Sa
 
 Our conferences are a place where like-minded professionals can meet, share best practices and new innovations, learn from challenges and success stories, share knowledge with new entrants into the networking community, and forge new connections.
 
-Find out more [NetUK1 >>](https://indico.netuk.org/event/1/){: .btn} and the [NetUK1 participants >>](https://indico.netuk.org/event/1/registrations/participants).
+Find out more about [NetUK1 >>](https://indico.netuk.org/event/1/){: .btn} and the [NetUK1 participants >>](https://indico.netuk.org/event/1/registrations/participants).
 
 # Event Photos
 [Photos from NetUK1 >>](https://www.netuk.org/netuk1/gallery/)

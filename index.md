@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: true
 show_call_box: false
 ---
 
-# The Network of Networks for the Community.
+# The Network of Networks for the Community
 
 ## Building the UK's latest network infrastructure community.
 

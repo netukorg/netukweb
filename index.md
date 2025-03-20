@@ -1,15 +1,18 @@
 ---
 title: NetUK
-layout: home
 description: NetUK - for the Community
-intro_image: "images/illustrations/netuk-gradient-background.svg"
-intro_image_absolute: true
-intro_image_hide_on_mobile: true
 show_call_box: false
+layout: page
+bodyClass: page-about
 ---
 
-# Building the UK's latest network infrastructure community.
+# The NetUK website is currently under construction...
 
-Our inaugural conference took place on 8th & 9th July.
+While our team works on the new NetUK site, you can find key event links below:
 
-[More >>]({% link netuk1.md %})
+* NetUK2: [Event programme, Call for Presentations, Call for sponsors](https://indico.netuk.org/event/2)
+
+## NetUK2 will take place on 7th and 8th of July 2025.
+
+[More >>]({% link netuk2.md %})
+

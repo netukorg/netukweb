@@ -7,7 +7,7 @@ bodyClass: page-about
 
 # About NetUK1
 
-The first NetUK conference took place on 8th and 9th of July, at [IET London: Savoy Place >>](https://savoyplace.theiet.org/).
+The first NetUK conference took place on 8th and 9th of July 2024 at [IET London: Savoy Place >>](https://savoyplace.theiet.org/).
 
 Our conferences are a place where like-minded professionals can meet, share best practices and new innovations, learn from challenges and success stories, share knowledge with new entrants into the networking community, and forge new connections.
 

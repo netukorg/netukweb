@@ -6,7 +6,7 @@ layout: page
 bodyClass: page-about
 ---
 
-# The NetUK website is currently under construction...
+# The NetUK website is being updated...
 
 While our team works on the new NetUK site, you can find key event links below:
 

@@ -9,11 +9,17 @@ bodyClass: page-about
 
 NetUK2 will take place on 7th and 8th of July 2025 at [The Brewery >>](https://www.thebrewery.co.uk/).
 
-Our conferences are a place where like-minded professionals can meet, share best practices and new innovations, learn from challenges and success stories, share knowledge with new entrants into the networking community, and forge new connections.
+NetUK conferences are a place where like-minded professionals can meet, share best practices and new innovations, learn from challenges and success stories, share knowledge with new entrants into the networking community, and forge new connections.
 
-Find out more about [NetUK2 >>](https://indico.netuk.org/event/2/){: .btn}
+## Programme and Call for Presentations
 
-# How to Register
+* The Call for Presentations and other details can be found on the [NetUK2 indico page](https://indico.netuk.org/event/2/).
+* The full programme will be available nearer the time [here](https://indico.netuk.org/event/2/timetable/).
+
+## Registration
+
+* [Ticket Policy]({% link ticket-policy.md %})
+* [Information for Attendees]({% link netuk2-attending.md %})
 
 Registration is open and tickets are available through pretix.
 

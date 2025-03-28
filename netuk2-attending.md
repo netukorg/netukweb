@@ -97,7 +97,7 @@ London is generally safe, but as with any big city, it's worth taking sensible p
 
 ### By Car
 
-* **We do not recommend driving in central London!** If this is unavoidable:
+* We do not recommend driving in central London! If this is unavoidable:
   * The venue is **inside** [congestion charge zone](https://tfl.gov.uk/modes/driving/congestion-charge/congestion-charge-zone). (Entering the zone 07:00-18:00 Mon-Fri is £15 daily charge).
   * If your vehicle does not meet the [Ultra Low Emission Zone (ULEZ) standards, you must also pay the ULEZ charge](https://tfl.gov.uk/modes/driving/ultra-low-emission-zone).
 

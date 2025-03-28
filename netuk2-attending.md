@@ -6,7 +6,7 @@ bodyClass: page-about
 permalink: "/netuk2/attending/"
 ---
 
- [ [When and where](#when-and-where) \| [Agenda](#what)] \| [Accessibility](#accessibility) \| [Safety and Security](#safety-and-security) \| [Travel](#travel) \| [Accommodation](#accommodation) ]
+ [ [When and where](#when-and-where) \| [Agenda](#what) \| [Accessibility](#accessibility) \| [Safety and Security](#safety-and-security) \| [Travel](#travel) \| [Accommodation](#accommodation) ]
 
 ## When and Where?
 

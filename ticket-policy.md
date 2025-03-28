@@ -12,7 +12,6 @@ bodyClass: page-about
 * Securing sufficient revenue to keep NetUK running
 * Ensuring the event is accessible by allowing attendees to self-fund their attendance
 * Offering a price below the industry standards set by RIPE and NANOG.
-* Offering a price below the industry standards set by RIPE and NANOG.
 
 ## Tickets available
 

@@ -135,4 +135,4 @@ Alternatively, it may be more convenient to use a car park, or stay and park at 
   * [Z Hotel Shoreditch](https://bookings.thezhotels.com/rates-room1?hotel=105014&arrival=2025-07-07&nights=1&rooms=1&adults%5B1%5D=1&children%5B1%5D=0&infants%5B1%5D=0&adults%5B2%5D=1&children%5B2%5D=0&infants%5B2%5D=0&adults%5B3%5D=1&children%5B3%5D=0&infants%5B3%5D=0&adults%5B4%5D=1&children%5B4%5D=0&infants%5B4%5D=0&adults%5B5%5D=1&children%5B5%5D=0&infants%5B5%5D=0&adults%5B6%5D=1&children%5B6%5D=0&infants%5B6%5D=0&adults%5B7%5D=1&children%5B7%5D=0&infants%5B7%5D=0&adults%5B8%5D=1&children%5B8%5D=0&infants%5B8%5D=0&adults%5B9%5D=1&children%5B9%5D=0&infants%5B9%5D=0&adults%5B10%5D=1&children%5B10%5D=0&infants%5B10%5D=0&code=)
   * [Premier Inn London Farringdon (Smithfield)](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-farringdon-smithfield.html?ARRdd=07&ARRmm=07&ARRyyyy=2025&NIGHTS=1&ROOMS=1&ADULT1=2&CHILD1=0&COT1=0&INTTYP1=DB)
   * [Point A hotel](https://www.pointahotels.com/) Shoreditch/Liverpool Street
-  * Many more to suit budget further out.
+*  Many more to suit budget further out.

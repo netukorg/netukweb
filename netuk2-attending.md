@@ -57,15 +57,16 @@ Approximate agenda is as follows:
 
 London is generally safe, but as with any big city, it's worth taking sensible precautions.
 
+> * There are increased reports of [mobile phones being snatched by thieves on mopeds or bikes](https://www.met.police.uk/cp/crime-prevention/personal-safety-how-to-stay-safe/protect-your-mobile-phone-against-criminals-on-bikes-and-mopeds/). Avoid distractions and **be especially vigilant in busy areas, near roads, or when exiting tube stations or buses**.
+
 * **[Staying safe in London](https://www.visitlondon.com/traveller-information/essential-information/staying-safe-in-london)**.
 * **Never leave your bag unattended** and report any unattended bags or items in public places.
-* There have been increased reports of [drive-by/moped phone thefts](https://www.met.police.uk/cp/crime-prevention/personal-safety-how-to-stay-safe/protect-your-mobile-phone-against-criminals-on-bikes-and-mopeds/). Avoid distractions and **be especially vigilant in busy areas, near roads, or when exiting tube stations or buses**.
 * Security staff will be present at the venue. Speak to them if you need help during the event, or go to the registration desk.
 
 
 ## Travel
 
-> **IMPORTANT: If visiting from outside the UK** - you may need to [apply for an electronic travel authorisation (ETA)](https://www.gov.uk/guidance/check-when-you-can-get-an-electronic-travel-authorisation-eta).
+> * **IMPORTANT: If visiting from outside the UK** - you may need to [apply for an electronic travel authorisation (ETA)](https://www.gov.uk/guidance/check-when-you-can-get-an-electronic-travel-authorisation-eta).
 >  From 2 April 2025, this includes EU/EEA nationals.
 
 
@@ -78,7 +79,8 @@ London is generally safe, but as with any big city, it's worth taking sensible p
 * For **train geeks**: [Realtime Trains](https://www.realtimetrains.co.uk/) \|  [Seat61](https://www.seat61.com/) \| [OpenTrainTimes](https://www.opentraintimes.com/)
 * For **tube nerds**: [Realtime Tube Map](https://traintimes.org.uk/map/tube/)
 
-* If you do not have an Oyster Card, use a contactless credit or debit card for tube and bus fares. Paper tickets from ticket machines are more expensive!
+* If you do not have an Oyster Card, use a contactless credit or debit card for tube and bus fares. Paper tickets from the machines at tube stations are more expensive!
+  * You can use mobile payment (e.g. Google Wallet/Apple Pay). Remember to tap in and tap out using _the same_ device/payment method to pay the correct fare.
 * If arriving from outside London, you can buy a national rail ticket including London Underground Zone 1 to get from your arrival station to the venue.
 
   * BARBICAN STATION (5 minute walk)
@@ -91,7 +93,7 @@ London is generally safe, but as with any big city, it's worth taking sensible p
 ### Bus
 
  * A [network of bus routes](https://tfl.gov.uk/maps/bus?Input=Chiswell+Street%2C+London+EC1Y+4SA%2C+UK&InputGeolocation=51.52082443237305%2C-0.09141430258750916) serve the local area. 
- * Note: Buses in London no longer accept cash payment. Only Oyster or contactless payment is accepted.
+ * Note: Buses in London no longer accept cash payment. Only Oyster or contactless payment is accepted. Tap in when boarding. There is no need to tap out.
  * For **bus geeks**: [bustimes.org timetables](https://bustimes.org/) \| [bustimes.org live bus map](https://bustimes.org/map#15.09/51.51693/-0.08621) \| [Realtime bus map](https://www.traintimes.org.uk/map/london-buses/#78)
 
 
@@ -122,9 +124,9 @@ Alternatively, it may be more convenient to use a car park, or stay and park at 
 
 * [London City Airport](https://www.londoncityairport.com/) ~45mins by DLR/Tube. Convenient for many European cities.
 * [London Stansted Airport](https://www.stanstedairport.com/) ~50 mins.
-* [London Gatwick Airport](https://www.gatwickairport.com/) ~53mins. Direct train to St Pancras. (Thameslink)
+* [London Gatwick Airport](https://www.gatwickairport.com/) ~1hr.17mins by train (Thameslink to Farringdon or London Bridge. Then Tube/walk to Moorgate.)
 * [London Luton Airport](https://www.gatwickairport.com/) ~23-45mins train from Luton Airport Parkway to London St Pancras (EMR)
-* [London Heathrow Airport](https://www.heathrow.com/) ~1h.14mins. by Tube (Piccadilly, then Hammersmith & City Line to Moorgate) ~50mins (Elizabeth Line to Liverpool Street.)
+* [London Heathrow Airport](https://www.heathrow.com/) ~1h.14mins. by Tube (Piccadilly, then Hammersmith & City Line to Moorgate) ~50mins Elizabeth Line to Liverpool Street.
 
 * London City, Heathrow and Gatwick airports are on the TfL Oyster network for connecting trains. Use Oyster or a contactless payment card at the ticket gates. 
 
@@ -151,4 +153,3 @@ Alternatively, it may be more convenient to use a car park, or stay and park at 
   * [Point A hotel](https://www.pointahotels.com/) Shoreditch/Liverpool Street
   * Also check other Z Hotel/Premier Inn/Point A hotels nearby. (Better rates if you sign up)
 * Many more to suit budget further out.
-

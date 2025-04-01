@@ -7,7 +7,7 @@ bodyClass: page-about
 
 # About NetUK2
 
-NetUK2 will take place on 7th and 8th of July 2025 at [The Brewery >>](https://www.thebrewery.co.uk/).
+NetUK2 will take place on 7th - 8th July 2025 at [The Brewery >>](https://www.thebrewery.co.uk/).
 
 NetUK conferences are a place where like-minded professionals can meet, share best practices and new innovations, learn from challenges and success stories, share knowledge with new entrants into the networking community, and forge new connections.
 

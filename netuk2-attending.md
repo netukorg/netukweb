@@ -10,7 +10,7 @@ permalink: "/netuk2/attending/"
 
 ## When and Where?
 
-* **When:** NetUK2 will take place on 7th & 8th July 2025.
+* **When:** NetUK2 will take place on 7th - 8th July 2025.
 * **Where:** [The Brewery](https://www.thebrewery.co.uk/), 52 Chiswell Street, LONDON, EC1Y 4SA. [map](https://maps.app.goo.gl/QH62owL3UWJ5o7HA8)
 
 ## What?
@@ -64,6 +64,10 @@ London is generally safe, but as with any big city, it's worth taking sensible p
 
 
 ## Travel
+
+> **IMPORTANT: If visiting from outside the UK** - you may need to [apply for an electronic travel authorisation (ETA)](https://www.gov.uk/guidance/check-when-you-can-get-an-electronic-travel-authorisation-eta).
+>  From 2 April 2025, this includes EU/EEA nationals.
+
 
 ### Tubes/Trains
 

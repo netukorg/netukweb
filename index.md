@@ -12,7 +12,7 @@ While our team works on the new NetUK site, you can find key event links below:
 
 * NetUK2: [Event programme, Call for Presentations, Call for sponsors](https://indico.netuk.org/event/2)
 
-## NetUK2 will take place on 7th and 8th of July 2025.
 
-[More >>]({% link netuk2.md %})
+## NetUK2 will take place on 7th - 8th July 2025.
 
+**[Information and registration >>]({% link netuk2.md %})**

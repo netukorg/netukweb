@@ -122,13 +122,13 @@ Alternatively, it may be more convenient to use a car park, or stay and park at 
 
 ### Airports
 
-* [London City Airport](https://www.londoncityairport.com/) ~45mins by DLR/Tube. Convenient for many European cities.
-* [London Stansted Airport](https://www.stanstedairport.com/) ~50 mins.
-* [London Gatwick Airport](https://www.gatwickairport.com/) ~1hr.17mins by train (Thameslink to Farringdon or London Bridge. Then Tube/walk to Moorgate.)
-* [London Luton Airport](https://www.gatwickairport.com/) ~23-45mins train from Luton Airport Parkway to London St Pancras (EMR)
-* [London Heathrow Airport](https://www.heathrow.com/) ~1h.14mins. by Tube (Piccadilly, then Hammersmith & City Line to Moorgate) ~50mins Elizabeth Line to Liverpool Street.
+* [London City Airport](https://www.londoncityairport.com/) ~25mins by DLR to Bank. Then walk/tube.
+* [London Stansted Airport](https://www.stanstedairport.com/) ~50 mins by train (Stansted Express to Liverpool Street.)
+* [London Gatwick Airport](https://www.gatwickairport.com/) ~40mins by train (Thameslink to Farringdon or London Bridge. Then Tube/walk to Moorgate.)
+* [London Luton Airport](https://www.gatwickairport.com/) ~30-40mins train from Luton Airport Parkway to London St Pancras (EMR)
+* [London Heathrow Airport](https://www.heathrow.com/) ~1h by Tube (Piccadilly, then Hammersmith & City Line to Moorgate) or ~40mins Elizabeth Line to Liverpool Street.
 
-* London City, Heathrow and Gatwick airports are on the TfL Oyster network for connecting trains. Use Oyster or a contactless payment card at the ticket gates. 
+* London City, Heathrow and Gatwick airports are on the TfL Oyster network for connecting trains. Use Oyster or a contactless payment method at the ticket gates.
 
 * Luton and Stansted require a separate train ticket.
   * Luton: Buy a ticket to/from **Luton Airport** (NOT Luton Airport Parkway) to include the shiny new [DART shuttle](https://www.lutondart.com/) connection from Luton Airport to Luton Airport Parkway.

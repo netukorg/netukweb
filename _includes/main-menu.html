@@ -1,4 +1,7 @@
 <div id="main-menu" class="main-menu">
+  <div class="sans-serif cover bg-white w-100 dt" id="clock-sm">
+    <div>{% include clock-sm.html %}</div>
+</div>
   {% assign mainmenu = site.data.menus.main | sort: 'weight'  %}
   <ul>
     {% for item in mainmenu %}

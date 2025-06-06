@@ -6,13 +6,12 @@ layout: page
 bodyClass: page-about
 ---
 
-# The NetUK website is being updated...
 
-While our team works on the new NetUK site, you can find key event links below:
-
-* NetUK2: [Event programme, Call for Presentations, Call for sponsors](https://indico.netuk.org/event/2)
+{% include clock.html %}
 
 
-## NetUK2 will take place on 7th - 8th July 2025.
+## NetUK2 will take place on 7th - 8th July 2025
 
-**[Information and registration >>]({% link netuk2.md %})**
+* **[Information and registration >>]({% link netuk2.md %})**
+* [Information for Attendees]({% link netuk2-attending.md %})
+* [Timetable, Call for sponsors](https://indico.netuk.org/event/2)

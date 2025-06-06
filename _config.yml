@@ -38,3 +38,4 @@ exclude:
   - LICENSE.md
   - LICENSE
   - README.md
+  - countdown/
